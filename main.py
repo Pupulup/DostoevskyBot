@@ -1,7 +1,7 @@
 import telegram
 from telegram import Updater, CommandHandler, MessageHandler, Filters
 
-API_KEY = '6012611381:AAEXjqjHeaA08uitjO0llqZ8iO0tWauFNg8'
+API_KEY = 'токен бота'
 
 
 def start(update, context):
