@@ -8,7 +8,7 @@ headers = {
     'Content-Type': 'application/json'
 }
 
-API_TOKEN = '6273257931:AAEJDZpOyZOQfHLbRyBmCF4SP7HQaTCeaS8'
+API_TOKEN = 'API'
 
 bot = telebot.TeleBot(API_TOKEN)
 
