@@ -5,10 +5,10 @@ import time
 import docx
 import tempfile
 
-openai.api_key = "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"
+openai.api_key = ""
 
 # инициализируем бота с помощью токена
-bot = telebot.TeleBot("6103475049:AAGIunWgjky8EPlKlI-oL5iGKV4-BdDgAjo")
+bot = telebot.TeleBot("")
 
 chunk_size = 1500
 overlap_size = 100
